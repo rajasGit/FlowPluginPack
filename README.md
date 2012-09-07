@@ -11,3 +11,16 @@ Create and Attach PDF Document
 Submit for Approval
 
 Note: Almost all of the Apex plug-ins operate on data in your organization.
+
+
+Instructions( When using Salesforce Ant)
+-----------------------------------------
+1. Get the package
+2. Modify the build.properties file to point to your salesforce instance
+3. run 'ant deployUnpackaged'
+
+
+Instructions( When NOT using Salesforce Ant)
+-----------------------------------------
+1. Get the package
+2. Create the Apex Plug-in classes manually
