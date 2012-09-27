@@ -12,3 +12,19 @@ Submit for Approval
 Zipcode verification using 2 web services
 
 Note: Almost all of the Apex plug-ins operate on data in your organization.
+<<<<<<< HEAD
+=======
+
+
+Instructions( When using Salesforce Ant)
+-----------------------------------------
+1. Get the package
+2. Modify the build.properties file to point to your salesforce instance
+3. run 'ant deployUnpackaged'
+
+
+Instructions( When NOT using Salesforce Ant)
+-----------------------------------------
+1. Get the package
+2. Create the Apex Plug-in classes manually
+>>>>>>> 3d543708867714a9d673df3098c6136edc35b77e
