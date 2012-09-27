@@ -12,8 +12,6 @@ Submit for Approval
 Zipcode verification using 2 web services
 
 Note: Almost all of the Apex plug-ins operate on data in your organization.
-<<<<<<< HEAD
-=======
 
 
 Instructions( When using Salesforce Ant)
